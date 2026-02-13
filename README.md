@@ -1,7 +1,7 @@
 ## Hi There! 👨‍💻
-I'm Benjamin,
-Senior software engineer with 10+ years of experience architecting and scaling high-performance web applications. Expertise in React, Next.js, TypeScript, Node.js, PHP, and Python, with strong background in distributed systems, microservices, and cloud infrastructure. 
-Proven track record leading cross-functional teams and delivering reliable, secure platforms handling millions of daily transactions. Focused on building scalable architectures that align engineering excellence with business impact.
+I’m Benjamin, a Senior Software Engineer with 10+ years of experience designing and scaling secure, high-performance systems across healthcare (HIPAA-compliant platforms), fintech, and eCommerce domains. I specialize in React, Next.js, TypeScript, Node.js, PHP, and Python, with deep expertise in distributed systems, microservices, and cloud-native infrastructure.
+
+I lead end-to-end engineering—from system architecture and data modeling to deployment and optimization—building reliable, compliant platforms that support high transaction volumes while aligning technical strategy with business growth.
 
 ## 🛠 Technologies I Use  
 ![](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
