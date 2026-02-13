@@ -15,6 +15,7 @@ Proven track record leading cross-functional teams and delivering reliable, secu
 
 ## 🛠 Technologies I Use  
 ![](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![](https://img.shields.io/badge/nextdotjs-#000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![](https://img.shields.io/badge/Node.js-86BE00?style=for-the-badge&logo=node.js&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
 ![](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
@@ -30,6 +31,7 @@ Proven track record leading cross-functional teams and delivering reliable, secu
 ![](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+
 ## Socials
 [![Preview](/assets/twitter.png)](https://twitter.com) &nbsp;
 [![Preview](/assets/linkedin.png)](https://www.linkedin.com/in/benjaminliu0505) &nbsp;
@@ -38,4 +40,4 @@ Proven track record leading cross-functional teams and delivering reliable, secu
 [![Preview](/assets/website.png)](https://benjaminliu0505.com) &nbsp;
 
 ## Visitor Count
-![Visitor Count] <p align="left" style="font-family: Brush Script MT;"> <img src="https://komarev.com/ghpvc/?username=benjaminliu0505&label=Profile%20views&color=0e75b6&style=flat" alt="visitor-count" />
+<p align="left" style="font-family: Brush Script MT;"> <img src="https://komarev.com/ghpvc/?username=benjaminliu0505&label=Profile%20views&color=0e75b6&style=flat" alt="visitor-count" />
