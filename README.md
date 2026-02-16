@@ -1,4 +1,4 @@
-## Hi There! 👨‍💻
+## Senior Software Engineer / 10+ years of experience! 👨‍💻
 I’m Benjamin, a Senior Software Engineer with 10+ years of experience designing and scaling secure, high-performance systems across healthcare (HIPAA-compliant platforms), fintech, and eCommerce domains. I specialize in React, Next.js, TypeScript, Node.js, PHP, and Python, with deep expertise in distributed systems, microservices, and cloud-native infrastructure.
 
 I lead end-to-end engineering—from system architecture and data modeling to deployment and optimization—building reliable, compliant platforms that support high transaction volumes while aligning technical strategy with business growth.
